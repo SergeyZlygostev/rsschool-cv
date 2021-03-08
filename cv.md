@@ -1,9 +1,9 @@
 
-Name: Sergey, lastname: Zlygostev
-E-mail: zlygostev@inbox.ru
-About me: I'm trying to become a good JS developer.
-Skills: HTML, CSS, JS, SCSS, Figma.
-Sample code:
+1. Name: Sergey, lastname: Zlygostev
+2. E-mail: zlygostev@inbox.ru
+3. About me: I'm trying to become a good JS developer.
+4. Skills: HTML, CSS, JS, SCSS, Figma.
+5. Sample code:
 '''
 function positiveSum(arr) {
   var sum = 0;
@@ -15,7 +15,7 @@ function positiveSum(arr) {
   return sum;
 }
 '''
-Sample projects: bezsahara.com
-Frontend courses: htmlacademy and learn.javascript.
+6. Sample projects: bezsahara.com
+7. Frontend courses: htmlacademy and learn.javascript.
 Books: Eric Freeman & Elisabeth Robson Learn Javascript
-English language: pre-intermediate
+8. English language: pre-intermediate
